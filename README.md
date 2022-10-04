@@ -1,2 +1,2 @@
-# Realm-Rush
+# Realm Rush
 Complete C# Unity Course
