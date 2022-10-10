@@ -1,4 +1,4 @@
-# Realm Rush - Prototype
+# Realm Rush 
  - Info: 
    - Realm Rush is a Tower Defense Style game.
    - The goal is to strategically place towers on the field so that the enemy rams don't enter the player's castle and steal it's gold.
