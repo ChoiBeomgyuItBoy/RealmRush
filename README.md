@@ -1,4 +1,7 @@
-# Realm Rush 
+# Realm Rush - Prototype
+ - Cool Mechanics:
+   - Enemy pathfinding.
+   - AI.
  - Info: 
    - Realm Rush is a Tower Defense Style game.
    - The goal is to strategically place towers on the field so that the enemy rams don't enter the player's castle and steal it's gold.
