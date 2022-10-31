@@ -1,11 +1,2 @@
 # Realm Rush - Prototype
- - Cool Mechanics:
-   - Enemy pathfinding.
-   - AI.
- - Info: 
-   - Realm Rush is a Tower Defense Style game.
-   - The goal is to strategically place towers on the field so that the enemy rams don't enter the player's castle and steal it's gold.
-   - The player starts the game with 250 gold.
-   - Each tower has a cost of 75 gold.
-   - When an enemy ram gets killed, it will give 25 gold to the player.
-   - When an enemy ram enters the player's castle, it will steal 25 gold.
+
